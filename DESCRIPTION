@@ -1,8 +1,8 @@
 Package: minionverse
-Title: Easily Install and Load Select Packages
+Title: Easily Install and Load Minion Packages
 Version: 0.0.1
 Authors@R: c(
-    person("Michael Wayne", "Kearney", , email = "mike.wayne.kearney@gmail.com", role = c("aut", "cre"))
+    person("Matthew James", "Henderson", , email = "matthew.james.henderson@gmail.com", role = c("aut", "cre"))
   )
 Description: The 'minionverseverse' is selection of packages designed to be loaded
     in concert. The purpose of this package is to make it easy to install and 
@@ -21,7 +21,7 @@ Imports:
     mopr
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.0.1.9000
+RoxygenNote: 7.1.1
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
